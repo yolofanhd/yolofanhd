@@ -4,7 +4,7 @@ I am a young and passionate software developer. Right now I am working on full-s
 
 #### Used technologies
 
-#### Enjoy some stats:
 <div align="center">
+  #### Enjoy some stats:
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yolofanhd&langs_count=8" />
 </div>
