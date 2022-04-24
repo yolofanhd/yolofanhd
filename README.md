@@ -1,7 +1,7 @@
 
 <h4 align="center">About me</h4>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B%2Faqp2d%2BUSr%2BcEqUyCmOArg%3D%3DL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
