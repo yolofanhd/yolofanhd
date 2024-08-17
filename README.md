@@ -10,8 +10,14 @@
 
 
 <h4 align="center">Hi, it's me! Check out this super cool Readme :)</h4>
+<h5>My Projects</h5>
+<ul>
+  <li>Take a look at my <a href="https://github.com/yolofanhd/nixos-config">nixos ❄ configuration</a>!</li>
+  <li>And more to come! :)</li>
+</ul>
+
+<p>As this page is still pretty much WIP and I haven't got anything to show you, take this lorem ipsum:</p>
 <p>
-  As this page is still pretty much WIP and I haven't got anything to show you, take this lorem ipsum: <br>
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec viverra, urna non convallis sodales, mauris orci rutrum lacus, a ultricies lacus nunc non est. Donec nec neque dui. Sed a sem vitae mauris hendrerit sollicitudin quis ut lectus. Pellentesque accumsan lacinia tristique. Sed mollis pretium felis, quis tempus dui. Phasellus lacus sapien, malesuada nec ullamcorper ultricies, imperdiet at turpis. Vivamus maximus dui a vestibulum lacinia. Nunc lobortis lobortis eleifend. Donec nec viverra lorem, in vulputate arcu. 
 </p>
 
