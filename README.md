@@ -6,6 +6,8 @@
   <img src="https://profile-counter.glitch.me/yolofanhd/count.svg" />
 </p>
 
+<img src="./banner.webp" alt="A cute banner">
+
 
 <a href="https://stackoverflow.com/users/17346107/yf4n"><img src="https://stackoverflow.com/users/flair/17346107.png?theme=dark" width="208" height="58" alt="profile for yf4n at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for yf4n at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
